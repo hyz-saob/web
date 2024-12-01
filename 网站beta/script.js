@@ -1,7 +1,6 @@
 document.addEventListener("DOMContentLoaded", function() {
     // 检查当前网址，并在特定网址显示警告框
     const currentUrl = window.location.href;
-    const specificUrl = "https://wbzs.xyz/R-18"; // 替换为你的特定网址
     const specificUrl = "https://schsaob.xyz/R-18";
     
     if (currentUrl === specificUrl) {
